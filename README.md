@@ -22,3 +22,11 @@ Auction is common use case to bid min/max for a service or product.
 
 [Auction Requirements](Auction/requirements.md)
 
+# 4. The CrowdFunding Smart Contract
+
+In the age of internet crowd funding is solving many problem and solving the monetary issue.
+The biggest gap in crowd funding is lack of visibility in spending of raised money.
+
+In this smart contract we have a implemented a solution that take the spending control from the person who raised to people who donated the money.
+
+[CrowdFunding Requirements](CrowdFunding/requirements.md)
