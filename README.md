@@ -30,3 +30,12 @@ The biggest gap in crowd funding is lack of visibility in spending of raised mon
 In this smart contract we have a implemented a solution that take the spending control from the person who raised to people who donated the money.
 
 [CrowdFunding Requirements](CrowdFunding/requirements.md)
+
+# 5. ICO Smart Contract
+
+An Initial Coin Offering (ICO) is a type of crowdfunding using cryptocurrencies.
+An ICO can be a source of capital for startup companies that offers investors some
+units of a new cryptocurrency or crypto-token in exchange for a well-known and valuable
+cryptocurrency like Ethereum.
+
+[ICO Requirements](ICO/requirements.md)
